@@ -15,7 +15,7 @@ public class P1p1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hey 2.0");
+        System.out.println("hey 3.0");
     }
     
 }
